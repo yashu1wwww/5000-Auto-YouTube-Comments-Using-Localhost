@@ -33,7 +33,7 @@ cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-h.py
+5k.py
 
 you must login with your 10+ accounts to do 5000+ auto comments...(per 1 gmail = 10 brand) 
 
@@ -46,8 +46,6 @@ thats all done the url will open in that opened localhost chrome and automatical
 in cmd enter 
 
 pip install Random
-
-After Enter 5k.py 
 
 and hit enter button
 
