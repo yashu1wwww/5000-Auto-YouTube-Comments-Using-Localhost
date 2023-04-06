@@ -7,7 +7,7 @@
   <img src="https://im4.ezgif.com/tmp/ezgif-4-1b52074425.gif" width="400px">
 </p>
 
-👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
+👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
@@ -18,6 +18,8 @@ or after chrome opens using localhost
 in extension on the other location using these
 
 https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
+
+👉Watch These Video And Connect Vpn & Run..
 
 https://youtu.be/c9MAJpax5R0
 
