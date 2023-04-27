@@ -5,37 +5,29 @@
 
 <img align="center" alt="Infinity" width="800" src="https://raw.githubusercontent.com/yashu1wwww/Sharechat-auto-login-likes-comment/main/ezgif-4-20007a741d.gif" alt="gif">
 
--5000 𝙘𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙢𝙚𝙖𝙣𝙨 𝙞𝙩 𝙩𝙖𝙠𝙚𝙨 9𝙝𝙧𝙨 𝙮𝙤𝙪𝙧 𝙨𝙮𝙨𝙩𝙚𝙢 𝙬𝙞𝙡𝙡 𝙝𝙖𝙣𝙜-
+-5000 𝙘𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙢𝙚𝙖𝙣𝙨 𝙞𝙩 𝙩𝙖𝙠𝙚𝙨 9 𝙝𝙤𝙪𝙧𝙨. 𝙔𝙤𝙪𝙧 𝙨𝙮𝙨𝙩𝙚𝙢 𝙬𝙞𝙡𝙡 𝙝𝙖𝙣𝙙𝙡𝙚 𝙞𝙩-
 
 👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
-<𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙝.𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙖𝙨 𝙝.𝙥𝙮 𝙖𝙣𝙙 𝙥𝙖𝙨𝙩𝙚 𝙩𝙝𝙖𝙩 𝙛𝙞𝙡𝙚 𝙩𝙝𝙚𝙧𝙚>
+To start with, watch the video that lasts for 3 minutes and 46 seconds, and then copy the following command to run the part that saves the script to the H.Py script and the H.Py script to the destination you chose:
 
-or after chrome opens using localhost
+After opening Chrome and using localhost, install the extension from the following link: https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
 
-in extension on the other location using these
+Then watch the video and connect to VPN.
 
-https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
+In my case, the location of Chrome is: C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-👉Watch These Video And Connect Vpn & Run..
+To use Chrome in debug mode, type the following command (replacing "enter your localhost path here" with your localhost path):
 
-https://youtu.be/c9MAJpax5R0
+chrome.exe --remote-debugging-port=9222 --user-data-dir="enter your localhost path here"
 
-C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-in my case chrome location
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
-
-in my case
+For my case, the command is:
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
+After that, open the command prompt in the folder and paste the following three lines at a time, and press enter.
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
@@ -43,14 +35,13 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 5k.py
 
-you must login with your 10+ accounts to do 5000+ auto comments...(per 1 gmail = 10 brand) 
+To make 5000+ auto-comments, you need to log in with 10+ accounts (one Gmail account corresponds to 10 brands).
 
-in 11 & 12 line in code change if you needed other comments inside ...
+If you need different comments, modify lines 11 and 12 in the code.
 
-in 21th line change with your required movie video url...
+Finally, change line 21 to include the required movie video URL.
 
-thats all done the url will open in that opened localhost chrome and automatically done the 5000+ auto comments....
-
+Once done, the URL will open in the Chrome that is running on your localhost, and it will automatically generate 5000+ auto-comments.
 in cmd enter 
 
 pip install Random
@@ -59,7 +50,7 @@ and hit enter button
 
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run.
 
 👉open cmd and enter pip uninstall selenium
 
