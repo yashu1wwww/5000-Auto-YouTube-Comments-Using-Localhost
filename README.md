@@ -1,9 +1,7 @@
 # 5000-Auto-YouTube-Comments-Using-Localhost
 5000 Auto YouTube Comments Using Selenium with Python on Localhost
 
--𝙈𝙤𝙨𝙩 𝙇𝙞𝙣𝙚𝙙 𝘾𝙤𝙙𝙚 𝙁𝙤𝙧 𝘼 𝙎𝙞𝙣𝙜𝙡𝙚 𝙎𝙘𝙧𝙞𝙥𝙩 𝙄𝙣 𝙂𝙞𝙩𝙃𝙪𝙗-
-
-...62𝙆+ 𝙡𝙞𝙣𝙚 𝙊𝙛 𝘾𝙤𝙙𝙚...
+-62𝙆+ 𝙡𝙞𝙣𝙚𝙨 𝙤𝙛 𝙘𝙤𝙙𝙚 𝙛𝙤𝙧 𝙖 𝙨𝙞𝙣𝙜𝙡𝙚 𝙨𝙘𝙧𝙞𝙥𝙩 𝙞𝙣 𝙂𝙞𝙩𝙃𝙪𝙗-
 
 <img align="center" alt="Infinity" width="800" src="https://raw.githubusercontent.com/yashu1wwww/Sharechat-auto-login-likes-comment/main/ezgif-4-20007a741d.gif" alt="gif">
 
