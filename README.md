@@ -7,7 +7,7 @@
 
 <img align="center" alt="Infinity" width="800" src="https://raw.githubusercontent.com/yashu1wwww/Sharechat-auto-login-likes-comment/main/ezgif-4-20007a741d.gif" alt="gif">
 
--5000 𝙘𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙢𝙚𝙖𝙣𝙨 𝙞𝙩 𝙩𝙖𝙠𝙚𝙨 9 𝙝𝙤𝙪𝙧𝙨. 𝙔𝙤𝙪𝙧 𝙨𝙮𝙨𝙩𝙚𝙢 𝙬𝙞𝙡𝙡 𝙝𝙖𝙣g_
+-5000+ 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙈𝙚𝙖𝙣𝙨 𝙄𝙩 𝙏𝙖𝙠𝙚𝙨 9 𝙃𝙤𝙪𝙧𝙨.𝙔𝙤𝙪𝙧 𝙎𝙮𝙨𝙩𝙚𝙢 𝙒𝙞𝙡𝙡 𝙃𝙖𝙣𝙜_
 
 👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨
 
