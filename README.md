@@ -19,7 +19,7 @@ After opening Chrome and using localhost, install the extension from the followi
 
 Then watch the video and connect to VPN.
 
-In my case, the location of Chrome is: C:\Users\Hp\AppData\Local\Google\Chrome\Application
+In my case, the location of Chrome is(use start in:) C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 To use Chrome in debug mode, type the following command (replacing "enter your localhost path here" with your localhost path):
 
