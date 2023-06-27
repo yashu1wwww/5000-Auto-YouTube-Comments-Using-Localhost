@@ -37,7 +37,7 @@ cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-5k.py
+then new terminal in that folder and enter 5k.py
 
 To make 5000+ auto-comments, you need to log in with 10+ accounts (one Gmail account corresponds to 10 brands).
 
