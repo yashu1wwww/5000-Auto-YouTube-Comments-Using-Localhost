@@ -7,6 +7,8 @@
 
 𝙉𝙤𝙩𝙚:𝘿𝙞𝙙𝙣'𝙩 𝙘𝙤𝙥𝙮-𝙥𝙖𝙨𝙩𝙚 𝙘𝙤𝙙𝙚 𝙖𝙜𝙖𝙞𝙣 𝙖𝙣𝙙 𝙖𝙜𝙖𝙞𝙣 𝙎𝙤𝙢𝙚 𝘾𝙝𝙖𝙣𝙜𝙚𝙨 𝘼𝙧𝙚 𝙏𝙝𝙚𝙧𝙚.
 
+## "If you know proxy rotation, then please fork it".
+
 <img align="center" alt="Infinity" width="800" src="https://raw.githubusercontent.com/yashu1wwww/Sharechat-auto-login-likes-comment/main/ezgif-4-20007a741d.gif" alt="gif">
 
 -5000+ 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙈𝙚𝙖𝙣𝙨 𝙄𝙩 𝙏𝙖𝙠𝙚𝙨 9 𝙃𝙤𝙪𝙧𝙨.𝙔𝙤𝙪𝙧 𝙎𝙮𝙨𝙩𝙚𝙢 𝙒𝙞𝙡𝙡 𝙃𝙖𝙣𝙜_
