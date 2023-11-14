@@ -47,6 +47,10 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 ## To do 5000+ auto comments, you must log in with 10+ gmail accounts and each gmail must contain 10 brand accounts
 
+
+# after login with 10 accs add these extension
+https://shorturl.at/mtAER
+
 In lines 11 and 12 of the code, change the comments if you want to use something different.
 
 In line 21, change the movie video URL to the required URL.
