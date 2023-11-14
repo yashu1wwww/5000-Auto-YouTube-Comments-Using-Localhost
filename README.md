@@ -5,12 +5,6 @@
 
 ## "If you know proxy rotation, then please fork it".
 
-## For Creating Gmail Without Phone And Create Within 1 Minutes Use These 👇
-
-## Mobile Settings > Password & Accounts > Google > Choose to create an account at the bottom. When prompted, select "Myself," fill in the remaining details, and note that they won't ask for a phone number.
-
-## You can try these steps to create a Gmail account without providing a phone number.
-
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 ## 𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙝.𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙖𝙨 𝙝.𝙥𝙮 𝙖𝙣𝙙 𝙥𝙖𝙨𝙩𝙚 𝙩𝙝𝙖𝙩 𝙛𝙞𝙡𝙚 𝙩𝙝𝙚𝙧𝙚
@@ -47,7 +41,6 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 ## To do 5000+ auto comments, you must log in with 10+ gmail accounts and each gmail must contain 10 brand accounts
 
-
 # after login with 10 accs add these extension
 https://shorturl.at/mtAER
 
@@ -62,6 +55,14 @@ in cmd enter
 pip install Random
 
 and hit enter button
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+## 👉 For Creating Gmail Without Phone And Create Within 1 Minutes Use These 👇
+
+## Mobile Settings > Password & Accounts > Google > Choose to create an account at the bottom. When prompted, select "Myself," fill in the remaining details, and note that they won't ask for a phone number.
+
+## You can try these steps to create a Gmail account without providing a phone number.
 
 👉Note:-
 
