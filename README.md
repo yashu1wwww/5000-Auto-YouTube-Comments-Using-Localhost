@@ -1,6 +1,8 @@
 # 5000-Auto-YouTube-Comments-Using-Localhost
 5000 Auto YouTube Comments Using Selenium with Python on Localhost
 
+# Most Lined Code In GitHub For A Single Script..
+
 𝙉𝙤𝙩𝙚:𝘿𝙞𝙙𝙣'𝙩 𝙘𝙤𝙥𝙮-𝙥𝙖𝙨𝙩𝙚 𝙘𝙤𝙙𝙚 𝙖𝙜𝙖𝙞𝙣 𝙖𝙣𝙙 𝙖𝙜𝙖𝙞𝙣 𝙎𝙤𝙢𝙚 𝘾𝙝𝙖𝙣𝙜𝙚𝙨 𝘼𝙧𝙚 𝙏𝙝𝙚𝙧𝙚.
 
 ## "If you know proxy rotation, then please fork it".
