@@ -9,19 +9,15 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 ## 𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 code in the script
 
-or after chrome opens using localhost
-
-in extension on the other location using these
-
-https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
+First, open Chrome file location and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location(use start in: path) is
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-in my case chrome location(use start in:) is
+click window button and search cmd and enter
 
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application (1st line in cmd)
 
-next,
+in line enter
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
 
@@ -29,32 +25,18 @@ Next, enter this command into the terminal, replacing "enter your localhost path
 
 For example, in my case it is:
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost" (2nd line in cmd make sure you replace the localhost path)
 
-then new terminal in that folder and enter 5000.py
+then again open new terminal in that folder enter
+pip install selenium==4.2.0
 
-Then, open the command prompt in that folder and paste the following two lines one at a time and press enter. (The code below assumes that you have watched the video and have set up the correct Chrome and localhost path.)
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
-
-## To do 5000+ auto comments, you must log in with 10+ gmail accounts and each gmail must contain 10 brand accounts
-
-# after login with 10 accs add these extension
-https://shorturl.at/mtAER
+after enter 5000.py or double click on 5000.py
 
 In lines 11 and 12 of the code, change the comments if you want to use something different.
 
 In line 21, change the movie video URL to the required URL.
 
 That's it! The URL will open in the previously opened localhost Chrome and 5000+ auto comments will be done automatically.
-
-in cmd enter
-
-pip install Random
-
-and hit enter button
 
 👉Note:-
 
