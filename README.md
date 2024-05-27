@@ -31,11 +31,19 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 pip install selenium==4.2.0
 
-after enter 5000.py or double click on 5000.py
+for yt video 
+
+enter video.py or double click on video.py
+
+for shorts video
+
+enter shorts.py or double click on shorts.py
 
 In lines 11 and 12 of the code, change the comments if you want to use something different.
 
 In line 21, change the movie video URL to the required URL.
+
+press control + f and enter 50 and replace with how much cmts needed for each acc..
 
 That's it! The URL will open in the previously opened localhost Chrome and 5000+ auto comments will be done automatically.
 
