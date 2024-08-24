@@ -40,7 +40,7 @@ while True:
         time.sleep(4)
         
         counter += 1
-        if counter == 3: #change how much you want comments per acc
+        if counter == 50: #change how much you want comments per acc
             break
         
     except Exception as e:
