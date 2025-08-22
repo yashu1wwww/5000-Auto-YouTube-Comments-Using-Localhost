@@ -47,7 +47,9 @@ press control + f and enter 50 and replace with how much cmts needed for each ac
 
 That's it! The URL will open in the previously opened localhost Chrome and 5000+ auto comments will be done automatically.
 
-# 👉Note:-
+
+## 👉 Note:Every time YouTube updates its code, it may vary. So, open the YouTube video, press *Ctrl + Shift + C* to open Developer Tools, inspect the elements, find the updated paths, and modify accordingly.
+
 
 👉if your selenium version is in latest version then the code never run
 
