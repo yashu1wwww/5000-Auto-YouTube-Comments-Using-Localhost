@@ -15,13 +15,16 @@ option = webdriver.ChromeOptions()
 option.add_experimental_option("debuggerAddress","localhost:9222")
 
 driver = webdriver.Chrome(options=option)
-time.sleep(2)
-driver.get("https://youtube.com/shorts/USc22MHu9cU?feature=share") #replace with your yt short url
-pause_button = WebDriverWait(driver, 60).until(
-    EC.element_to_be_clickable((By.CSS_SELECTOR, "button.ytp-play-button"))
-)
-pause_button.click()
 
+time.sleep(2)
+
+driver.get("https://youtube.com/shorts/USc22MHu9cU?feature=share") #replace with your youtube short url
+
+time.sleep(3)
+
+driver.find_element_by_css_selector('#comments-button > ytd-button-renderer > yt-button-shape > label > button').click() #click on youtube short cmt box
+
+time.sleep(2)
 
 counter = 0
 while True:
@@ -4521,4 +4524,5 @@ while True:
         print("An error occurred:", e)
         break       
         
+
 
