@@ -41,6 +41,8 @@ for shorts video
 
 enter shorts.py or double click on shorts.py
 
+# Add Ads Blocker Extension To Works Quickly..
+
 In lines 11 and 12 of the code, change the comments if you want to use something different.
 
 In line 19th, change the movie video URL to the required URL.
