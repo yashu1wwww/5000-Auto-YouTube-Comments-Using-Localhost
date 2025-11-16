@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import webdriver #10 gmails each gmail - 10 brand accounts
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -22,7 +22,7 @@ driver.get("https://youtube.com/shorts/USc22MHu9cU?feature=share") #replace with
 
 time.sleep(3)
 
-driver.find_element_by_css_selector('#comments-button > ytd-button-renderer > yt-button-shape > label > button').click() #click on youtube short cmt box
+driver.find_element(By.XPATH, "//button[contains(@aria-label, 'comments')]").click() #click on youtube short cmt box
 
 time.sleep(2)
 
@@ -4524,5 +4524,4 @@ while True:
         print("An error occurred:", e)
         break       
         
-
 
