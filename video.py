@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import webdriver #10 gmails each gmail - 10 brand accounts
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -4624,4 +4624,5 @@ while True:
         print("An error occurred:", e)
         break       
         
+
 
